@@ -1,0 +1,157 @@
+body{
+    background-color: #F6F6FC !important;
+}
+.absensi{
+    color: #4C516D ;
+    font-weight: bold;
+    font-size: 25px;
+}
+label{
+    color: black;
+    font-weight: bold;
+}
+.cs{
+    font-size: 13px;
+    color: #878AA6;
+}
+.branding{
+    font-size: 11px;
+    color: #878AA6;
+    margin-top: 80px !important;
+
+}
+.showp{
+    font-size: 12px;
+}
+.fa{
+    font-size: 20px;
+    color: #7a797e;
+}
+.card{
+    background-color: #F6F6FC !important;
+}
+.text-logo{
+    font-size: 40px;
+    font-weight: bold;
+    color: #4C516D;
+}
+.logo{
+    width: 48px;
+    height: 48px;
+}
+.btn-purple{
+    background-color: #7233DA !important;
+    color: white !important;
+}
+.exit{
+    width: 50px;
+	height: 50px;
+	background: #EFF0F9;
+    border-radius: 100%;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right:40px;
+    top: 30px;
+}
+.exit,.fas{
+    padding-top: 5px;
+    font-size: 25px;
+    color: #24292E;
+}
+.profil{
+    width: 88px;
+    height: 88px;
+    position: relative;
+    bottom: 40px;
+    left: 40%;
+}
+.nama-user{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.lokasi{
+    font-size: 15px;
+}
+.lokasi .fas{
+    color: #FF9898;
+}
+.tanggal {
+    font-size: 15px;
+}
+.tanggal .fas{
+    font-size: 4px;
+    position: relative;
+    bottom: 3px;
+}
+.btn-absensi{
+    background-color: #ffffff !important;
+    color: #131315 !important;
+}
+.btn-absensi h4{
+    padding: 8px;
+    margin-bottom: 0px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+}
+.kehadiran{
+    background-color: #FBFBFF !important;
+    border: none !important;
+}
+.kehadiran h5{
+    font-size: 15px;
+    color: #131315;
+    font-weight: 400;
+    line-height: 20px;
+}
+.kehadiran h6{
+    font-size: 13px;
+    color: #4C516D;
+    line-height: 16px;
+}
+.back{
+    width: 50px;
+	height: 50px;
+	background: #EFF0F9;
+    border-radius: 100%;
+    border: none;
+    cursor: pointer;
+    /* position: absolute;
+    right:40px;
+    top: 30px; */
+}
+.back,.fas{
+    padding-top: 5px;
+    font-size: 25px;
+    color: #24292E;
+}
+.sekolah .fas{
+    font-size: 70px;
+    color: #413368;
+}
+.ntitle h3{
+    color : #131315;
+    font-size: 19px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.ntitle p{
+    color: #4C516D;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.box-radio{
+    border: 1px black solid;
+    border-radius: 3px;
+}
+.form-check label{
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #878AA6;
+    padding-right: 100px;
+}
